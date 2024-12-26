@@ -28,8 +28,8 @@ Make sure you have the following installed:
 
 1. Clone the repository or download the source code.
    ```bash
-   git clone https://github.com/your-repo/speech-chatbot-with-face-detection.git
-   cd speech-chatbot-with-face-detection
+   git clone https://github.com/NipunRajput/Basic-Speech-to-Speech-Pretrained-Model
+   cd Basic-Speech-to-Speech-Pretrained-Model
    ```
 
 2. Create a virtual environment and activate it:
